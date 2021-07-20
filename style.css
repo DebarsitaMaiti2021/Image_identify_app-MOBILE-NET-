@@ -1,0 +1,63 @@
+.header_div{
+    background-color: burlywood;
+    color: black;
+}
+body{
+    background-color: rgb(253, 138, 199);
+    font-family: 'Dancing Script', cursive;
+}
+.header_div img{
+    width: 100px;
+    height: 100px;
+}
+.main_div{
+    background-color:rgb(253, 138, 199) ;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid rgb(231, 22, 151);
+    width: 480px;
+}
+.main_div label{
+    background-color: white;
+    width: 450px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px rgb(231, 22, 151);
+    font-size: 25px;
+}
+#camera,#result{
+    border: 2px solid white;
+    width: 450px;
+    height: 300px;
+    box-shadow: 5px 5px 18px rgb(231, 22, 151);
+}
+.main_div button{
+    width: 450px;
+    font-size: 25px;
+    border: 1px solid white;
+    box-shadow: 5px 5px 18px rgb(231, 22, 151);
+}
+.footer_div{
+    margin-bottom: 50px;
+}
+.footer_div h4{
+    background-color: white;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 18px rgb(231, 22, 151);
+}
+.footer_div img{
+    width: 70px;
+}
+.copy_right_footer{
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    background-color: rgb(247, 214, 107);
+    color: black;
+    text-align: center;
+    line-height: 3;
+}
+.div1{
+    margin-left: 200px;
+}
